@@ -1,0 +1,12 @@
+a=10
+b=15
+c=4
+d=2
+#add
+print("ans=",a+b)
+#sub
+print("ans=",a-d)
+#mul
+print("ans=",c*b)
+#div
+print("ans=",b/d)
